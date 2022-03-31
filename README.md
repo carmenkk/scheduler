@@ -25,13 +25,13 @@ npm run storybook
 ## Final Product
 
 1 Tuesday's interviews
-!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/docs/interviews.png)
+!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/Doc/interviews.png)
 
 2 Book an new interview
-!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/docs/bookInterview.png)
+!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/Doc/bookInterview.png)
 
 3 Confirm deleting an interview
-!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/docs/confirmDeleteInterview.png)
+!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/Docs/confirmDeleteInterview.png)
 
 4 Input Error Message
-!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/docs/inputErrorMessage.png)
+!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/Docs/inputErrorMessage.png)
