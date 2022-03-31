@@ -31,7 +31,7 @@ npm run storybook
 !["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/Doc/bookInterview.png)
 
 3 Confirm deleting an interview
-!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/Docs/confirmDeleteInterview.png)
+!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/Doc/confirmDeleteInterview.png)
 
 4 Input Error Message
-!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/Docs/inputErrorMessage.png)
+!["Screenshot of URLs page"](https://github.com/carmenkk/scheduler/blob/master/Doc/inputErrorMessage.png)
